@@ -10,8 +10,6 @@
     { "name": "Bougainvillea",           "floorUpx": 1000, "category": "shrub"  },
     { "name": "Boxwood",                 "floorUpx": 290,  "category": "shrub"  },
     { "name": "Lavender",                "floorUpx": 500,  "category": "flower" },
-    { "name": "Lavender Grass",          "floorUpx": 7000, "category": "shrub"  },
-    { "name": "Lawn Grass",              "floorUpx": 360,  "category": "shrub"  },
     { "name": "Lemon Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Magnolia Tree",           "floorUpx": 360,  "category": "tree"   },
     { "name": "Maple Tree",              "floorUpx": 370,  "category": "tree"   },
