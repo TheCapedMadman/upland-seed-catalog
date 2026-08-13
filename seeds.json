@@ -18,6 +18,7 @@
     { "name": "Oil Palm Tree",           "floorUpx": 900,  "category": "flower" },
     { "name": "Orange Calla Lily",       "floorUpx": 840,  "category": "flower" },
     { "name": "Orange Daisy",            "floorUpx": 315,  "category": "flower" },
+    { "name": "Petunia",                 "floorUpx": 1000, "category": "flower" },
     { "name": "Pine Tree",               "floorUpx": 325,  "category": "tree"   },
     { "name": "Pink Rose",               "floorUpx": 475,  "category": "flower" },
     { "name": "Purple Tulip",            "floorUpx": 3350, "category": "flower" },
