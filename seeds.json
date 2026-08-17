@@ -10,6 +10,7 @@
     { "name": "Blueberry",               "floorUpx": 3150, "category": "shrub"  },
     { "name": "Bougainvillea",           "floorUpx": 1000, "category": "shrub"  },
     { "name": "Boxwood",                 "floorUpx": 290,  "category": "shrub"  },
+    { "name": "Forsythia",               "floorUpx": 1000, "category": "shrub"  },
     { "name": "Lavender",                "floorUpx": 500,  "category": "flower" },
     { "name": "Lemon Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Magnolia Tree",           "floorUpx": 360,  "category": "tree"   },
