@@ -6,6 +6,7 @@
     { "name": "Arborvitae",              "floorUpx": 285,  "category": "shrub"  },
     { "name": "Avocado Tree",            "floorUpx": 1250, "category": "tree"   },
     { "name": "Begonia Rex",             "floorUpx": 380,  "category": "flower" },
+    { "name": "Birch Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Bird Of Paradise",        "floorUpx": 2000, "category": "flower" },
     { "name": "Blueberry",               "floorUpx": 3150, "category": "shrub"  },
     { "name": "Bougainvillea",           "floorUpx": 1000, "category": "shrub"  },
