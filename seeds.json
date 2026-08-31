@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-03",
+  "updatedAt": "2026-08-31",
   "seeds": [
     { "name": "Apple Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Arborvitae",              "floorUpx": 285,  "category": "shrub"  },
