@@ -20,6 +20,7 @@
     { "name": "Maple Tree",              "floorUpx": 370,  "category": "tree"   },
     { "name": "Monstera",                "floorUpx": 370,  "category": "shrub"  },
     { "name": "Oil Palm Tree",           "floorUpx": 900,  "category": "flower" },
+    { "name": "Olive Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Orange Calla Lily",       "floorUpx": 840,  "category": "flower" },
     { "name": "Orange Daisy",            "floorUpx": 315,  "category": "flower" },
     { "name": "Petunia",                 "floorUpx": 1000, "category": "flower" },
