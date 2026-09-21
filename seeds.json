@@ -18,6 +18,7 @@
     { "name": "Lilac",                   "floorUpx": 1000, "category": "shrub"  },
     { "name": "Magnolia Tree",           "floorUpx": 360,  "category": "tree"   },
     { "name": "Maple Tree",              "floorUpx": 370,  "category": "tree"   },
+    { "name": "Marigold",                "floorUpx": 1000, "category": "flower" },
     { "name": "Monstera",                "floorUpx": 370,  "category": "shrub"  },
     { "name": "Oil Palm Tree",           "floorUpx": 900,  "category": "flower" },
     { "name": "Olive Tree",              "floorUpx": 1000, "category": "tree"   },
