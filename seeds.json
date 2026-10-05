@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-05",
   "seeds": [
     { "name": "Apple Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Arborvitae",              "floorUpx": 285,  "category": "shrub"  },
@@ -11,6 +11,7 @@
     { "name": "Blueberry",               "floorUpx": 3150, "category": "shrub"  },
     { "name": "Bougainvillea",           "floorUpx": 1000, "category": "shrub"  },
     { "name": "Boxwood",                 "floorUpx": 290,  "category": "shrub"  },
+    { "name": "Flowering Dogwood",       "floorUpx": 1000, "category": "tree"   },
     { "name": "Forsythia",               "floorUpx": 1000, "category": "shrub"  },
     { "name": "Gardenia",                "floorUpx": 1000, "category": "shrub"  },
     { "name": "Lawn Grass",              "floorUpx": 1000, "category": "shrub"  },
