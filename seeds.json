@@ -14,6 +14,7 @@
     { "name": "Flowering Dogwood",       "floorUpx": 1000, "category": "tree"   },
     { "name": "Forsythia",               "floorUpx": 1000, "category": "shrub"  },
     { "name": "Gardenia",                "floorUpx": 1000, "category": "shrub"  },
+    { "name": "Iris",                    "floorUpx": 1000, "category": "flower" },    
     { "name": "Lawn Grass",              "floorUpx": 1000, "category": "shrub"  },
     { "name": "Lavender",                "floorUpx": 500,  "category": "flower" },
     { "name": "Lemon Tree",              "floorUpx": 1000, "category": "tree"   },
