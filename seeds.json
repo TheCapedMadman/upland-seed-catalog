@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-26",
   "seeds": [
     { "name": "Apple Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Arborvitae",              "floorUpx": 285,  "category": "shrub"  },
     { "name": "Avocado Tree",            "floorUpx": 1250, "category": "tree"   },
+    { "name": "Bald Cypress",            "floorUpx": 1000, "category": "tree"   },  
     { "name": "Begonia Rex",             "floorUpx": 380,  "category": "flower" },
     { "name": "Birch Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Bird Of Paradise",        "floorUpx": 2000, "category": "flower" },
@@ -35,7 +36,7 @@
     { "name": "Red Hot Poker",           "floorUpx": 1000, "category": "flower" },
     { "name": "Red Rose",                "floorUpx": 620,  "category": "flower" },
     { "name": "Red Tulip",               "floorUpx": 750,  "category": "flower" },
-    { "name": "Rosemary",                "floorUpx": 1000, "category": "shrub"  },
+    { "name": "Rosemary",                "floorUpx": 1000, "category": "shrub"  },    
     { "name": "Sod_Grass_2x2",           "floorUpx": 1000, "category": "shrub"  },
     { "name": "Sod_Grass_4x4",           "floorUpx": 1000, "category": "shrub"  },
     { "name": "Sunflower",               "floorUpx": 9000, "category": "flower" },
