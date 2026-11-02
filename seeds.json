@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-02",
   "seeds": [
     { "name": "Apple Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Arborvitae",              "floorUpx": 285,  "category": "shrub"  },
@@ -9,6 +9,7 @@
     { "name": "Begonia Rex",             "floorUpx": 380,  "category": "flower" },
     { "name": "Birch Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Bird Of Paradise",        "floorUpx": 2000, "category": "flower" },
+    { "name": "Black-Eyed Susan",        "floorUpx": 1000, "category": "flower" },    
     { "name": "Blueberry",               "floorUpx": 3150, "category": "shrub"  },
     { "name": "Bougainvillea",           "floorUpx": 1000, "category": "shrub"  },
     { "name": "Boxwood",                 "floorUpx": 290,  "category": "shrub"  },
