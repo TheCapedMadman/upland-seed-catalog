@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-09",
   "seeds": [
     { "name": "Apple Tree",              "floorUpx": 1000, "category": "tree"   },
     { "name": "Arborvitae",              "floorUpx": 285,  "category": "shrub"  },
@@ -37,6 +37,7 @@
     { "name": "Red Hot Poker",           "floorUpx": 1000, "category": "flower" },
     { "name": "Red Rose",                "floorUpx": 620,  "category": "flower" },
     { "name": "Red Tulip",               "floorUpx": 750,  "category": "flower" },
+    { "name": "Rhododendron",            "floorUpx":1000,  "category": "shrub"  },
     { "name": "Rosemary",                "floorUpx": 1000, "category": "shrub"  },
     { "name": "Sod_Grass_2x2",           "floorUpx": 1000, "category": "shrub"  },
     { "name": "Sod_Grass_4x4",           "floorUpx": 1000, "category": "shrub"  },
